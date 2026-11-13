@@ -293,7 +293,7 @@ const ComputerClient: React.FC = () => {
                   <ul className="text-xs text-blue-700 space-y-1">
                     <li>1. Ensure your mobile device is connected</li>
                     <li>2. Select your preferred stream quality</li>
-                    <li>3. Click "Start Stream" to begin</li>
+                    <li>3. Click &quot;Start Stream&quot; to begin</li>
                     <li>4. Mobile device can control the stream</li>
                   </ul>
                 </div>
